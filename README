@@ -41,6 +41,6 @@ To compile with microsoft visual studio:
 To compile with gcc (linux, cygwin, ...)
 - Open shell / terminal windows
 - Run (if you want to use make and gcc)
-  make -f Makefile.gnu clean all
+  make -f Makefile clean all
 - Run (if you want to use gmake and gcc)
-  gmake -f Makefile.gnu clean all
+  gmake -f Makefile clean all
